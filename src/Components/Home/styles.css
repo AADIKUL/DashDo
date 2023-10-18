@@ -1,0 +1,25 @@
+
+.navbar {
+    display: flex;
+    background-color: rgb(152, 214, 231);
+    height: 74px;
+}
+
+.logo {
+    margin-left: 3rem;
+    margin-top: -2rem;
+}
+
+.nav-right{
+    margin-right: 3rem;
+    margin-top: -2.3rem;
+}
+
+.Goals{
+    margin-bottom: 3rem;
+}
+
+.body-main{
+    background-color: rgb(218, 239, 245);
+    padding-bottom: 9rem;
+}
